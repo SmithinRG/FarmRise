@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70658" started-at="2019-06-02T20:09:19Z" finished-at="2019-06-02T20:10:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70658" started-at="2019-06-02T20:09:19Z" finished-at="2019-06-02T20:10:29Z">
+      <class name="FarmRiseAndroid.OnboardScreen">
+        <test-method status="PASS" signature="base()[pri:0, instance:FarmRiseAndroid.OnboardScreen@2a5ca609]" name="base" is-config="true" duration-ms="16120" started-at="2019-06-02T20:09:19Z" finished-at="2019-06-02T20:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- base -->
+        <test-method status="PASS" signature="onBoard()[pri:0, instance:FarmRiseAndroid.OnboardScreen@2a5ca609]" name="onBoard" duration-ms="54536" started-at="2019-06-02T20:09:35Z" finished-at="2019-06-02T20:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onBoard -->
+      </class> <!-- FarmRiseAndroid.OnboardScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

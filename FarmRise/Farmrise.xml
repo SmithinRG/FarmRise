@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation">
+<test name="FarmRiseTest">
+<classes>
+<class name= "FarmRiseAndroid.FarmRiseBase"/>
+<class name= "FarmRiseAndroid.OnboardScreen"/>
+<class name= "FarmRiseAndroid.WeatherSchemes"/>
+<class name= "FarmRiseAndroid.GovernmentSchemes"/>
+</classes>
+</test>
+</suite>
